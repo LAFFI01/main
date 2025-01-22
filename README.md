@@ -1,2 +1,3 @@
-# main
+# Sample game
 Number Guessing.
+
